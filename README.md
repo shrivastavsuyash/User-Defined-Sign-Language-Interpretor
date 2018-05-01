@@ -32,3 +32,6 @@ pip install pyttsx(including pyaudio if not downloded earlier)
 4>Speech Recognition 3.8.1
 
 pip install pip install SpeechRecognition3.8.1
+
+
+For more information READ working
