@@ -1,0 +1,7 @@
+Hello! This is Instruction.
+There are three option's as shown.
+The first option is for Hand Gesture Recognition. In this section the user can redefine the give gesture accordingly. And can be used furthur for communication.
+The Second option is for converting text to speech.
+The Third option is to Extract text from any audio file.
+And using the fourth option you can talk to me.
+Now you can select any options.
