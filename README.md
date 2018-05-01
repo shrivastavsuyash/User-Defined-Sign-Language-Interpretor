@@ -14,9 +14,10 @@ This module will convert text to human understandable language, here English, so
 TEXT Scrapping
 
 This module is divided into two parts i.e., 1. Interpreting voice from the user and converting it to text so that a deaf person can read whatever a normal person is speaking, 2. Interpreting from a audio file to text so that a deaf person can read whatever is spoken in a recorded audio file.
-#Using UDSLI
 
-Download all the files give above
+Using UDSLI
+
+Download all the files given above and 
 Install Important Packages as
 
 1>OpenCV
