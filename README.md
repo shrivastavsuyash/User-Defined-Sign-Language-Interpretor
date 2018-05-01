@@ -14,3 +14,20 @@ This module will convert text to human understandable language, here English, so
 TEXT Scrapping
 
 This module is divided into two parts i.e., 1. Interpreting voice from the user and converting it to text so that a deaf person can read whatever a normal person is speaking, 2. Interpreting from a audio file to text so that a deaf person can read whatever is spoken in a recorded audio file.
+#Using UDSLI
+
+Download all the files give above
+Install Important Packages as
+
+1>OpenCV
+opencv-python 3.4.0.12  (pip install opencv-python 3.4.0.12 )
+
+2>Numpy (pip install numpy)
+
+3>Pyttsx for Text to Speech
+
+pip install pyttsx(including pyaudio if not downloded earlier)
+
+4>Speech Recognition 3.8.1
+
+pip install pip install SpeechRecognition3.8.1
